@@ -43,5 +43,8 @@
       "npx eslint --fix",
       "git add"
     ]
+  },
+  "dependencies": {
+    "sharp": "^0.25.3"
   }
 }
